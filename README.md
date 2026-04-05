@@ -21,7 +21,6 @@
 |----------|------|
 | Stake mgntSOL | [app.sanctum.so/stake/mgntSOL](https://app.sanctum.so/stake/mgntSOL) |
 | Whitepaper | [magnet-finance.gitbook.io/magnet-finance-whitepaper](https://magnet-finance.gitbook.io/magnet-finance-whitepaper) |
-| App | [unified-swap-hub.replit.app](https://unified-swap-hub.replit.app) |
 | X (Twitter) | [@MGNTFinance](https://x.com/MGNTFinance) |
 
 ---
@@ -81,7 +80,6 @@ Holding mgntSOL passively earns Season 1 Genesis Points — updated on-chain eve
 | 25 – 50 mgntSOL | 12 pts/hr |
 | 50+ mgntSOL | 15 pts/hr |
 
-Visit [unified-swap-hub.replit.app](https://unified-swap-hub.replit.app) to connect your wallet and view your rank on the live leaderboard.
 
 ---
 
@@ -110,7 +108,7 @@ Every participant strengthens the ecosystem for every other participant.
 - Sanctum LST registry integration
 - Meteora DLMM liquidity pool (mgntSOL/SOL)
 - Season 1 Genesis Points — passive accrual for holders
-- Live leaderboard at [unified-swap-hub.replit.app](https://unified-swap-hub.replit.app)
+  
 
 ### 🔜 Upcoming
 - Magnetic Swap native mgntSOL integration
